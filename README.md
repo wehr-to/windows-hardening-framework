@@ -17,7 +17,7 @@ Repo Value:
 
 auditpol, Sysmon, and WEF filters are all core to Windows telemetry collection.
 Custom XML filters and detection logic for event logs show you know what “normal” and “abnormal” look like.
-Your lab examples can become scenario-based walkthroughs: "We detected Event ID 7045 on multiple hosts. Investigation revealed a malicious service..."
+Your lab examples can become scenario-based walkthroughs: "We detected Event ID 7045 on multiple hosts. Investigation revealed a malicious service
 
 ## ✅ CySA+ Domain 3: Incident Response
 Objective: Determine the nature of incidents and appropriate mitigation.
